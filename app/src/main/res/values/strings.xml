@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">androidStudioInicio</string>
+    <string name="tituloDocente">Lista de Docentes</string>
 </resources>
